@@ -1,7 +1,7 @@
 *.csv
 *.DS_Store
 *.html
-
+*.zip
 
 # =======
 # Byte-compiled / optimized / DLL files
