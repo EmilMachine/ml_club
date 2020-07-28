@@ -1,5 +1,10 @@
 FROM python:3.8-slim AS train
 
+# install gcc (gnu compiler for c++)
+RUN apt-get update \
+&& apt-get install gcc -y \
+&& apt-get clean
+
 COPY ./data/titanic/* ./data/titanic/
 
 COPY requirements.txt .
