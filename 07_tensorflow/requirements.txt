@@ -1,7 +1,7 @@
 # to run 
 # pip3 install -r requirements.txt
 
-tensorflow==2.5.2
+tensorflow==2.5.3
 jupyter==1.0.0
 matplotlib==3.1.2
 numpy==1.18.4
