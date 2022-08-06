@@ -1,5 +1,5 @@
 # Streamlit
-streamlit==0.72.0
+streamlit==1.11.1
 matplotlib==3.3.3
 
 # Dash
