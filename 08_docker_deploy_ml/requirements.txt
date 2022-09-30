@@ -1,6 +1,6 @@
 
 Cython==0.29.21
-joblib==0.16.0
+joblib==1.2.0
 numpy==1.22.0
 scikit-learn==0.23.1 
 scipy==1.5.2
